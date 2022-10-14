@@ -5,5 +5,5 @@
 #### This repository is the collection of Excel Templates for various purposes. It can be healpful for learning and practising Excel.
 #### This also reduce your time to create an new template and you will learn how to format data and create dashboard attractively.
 
-1.[12-month calendar]([[https://www.google.com](https://github.com/thabresh-data-scientist/Microsoft-Excel/blob/main/12-month%20calendar.xlsx)])
+[12-month calendar]([https://github.com/thabresh-data-scientist/Microsoft-Excel/blob/main/12-month%20calendar.xlsx)])
 
