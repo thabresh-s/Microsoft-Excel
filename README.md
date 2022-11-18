@@ -218,8 +218,7 @@ Excel Templates
 
 109	[Regional sales chart.xlsx](https://github.com/thabaresh-s/Microsoft-Excel/blob/main/Regional%20sales%20chart.xlsx)
 
-110	[Requirment of Material and Labor(MKS)_Belay.xlsx](https://github.com/thabaresh-s/Microsoft-
-Excel/blob/main/Requirment%20of%20Material%20and%20Labor(MKS)_Belay.xlsx)
+110	[Requirment of Material and Labor(MKS)_Belay.xlsx](https://github.com/thabaresh-s/Microsoft-Excel/blob/main/Requirment%20of%20Material%20and%20Labor(MKS)_Belay.xlsx)
 
 111	[Resume Wrangler.xlsx](https://github.com/thabaresh-s/Microsoft-Excel/blob/main/Resume%20Wrangler.xlsx)
 
