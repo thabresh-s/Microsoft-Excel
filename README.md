@@ -1,4 +1,14 @@
-Excel Templates
+## Excel Templates
+
+Excel dashboards make it easy to perform quick overviews of data reports rather than going through large volumes of data. Overviews help in making quick and urgent decisions since one can skim through a lot of information at once and within a short time.
+
+The dashboards help in tracking Key Performance Indicators (KPIs) with ease, which helps organizations track the progress on their targets. They provide a high-level summary of key aspects of your data to keep everyone at par with the progress, hence giving the organization a timely indicator for necessary action in real-time.
+
+Excel dashboards include various elements such as charts, tables, figures, and gauges that help in presenting the data. They can handle any type of data from different market and purposes, and the information can be used for marketing, financial, or other business projects.
+
+The Excel Dashboard provides an overview of metrics and other data points in one place. In simple terms, dashboards are visual representations of data. They mostly consist of charts and graphs, thereby grabbing the user's attention.
+
+I prepared some basic Excel Templates for Practising MS Excel.
 
 1	[12-month calendar.xlsx](https://github.com/thabaresh-s/Microsoft-Excel/blob/main/12-month%20calendar.xlsx)
 
