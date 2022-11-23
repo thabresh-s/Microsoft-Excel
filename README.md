@@ -14,6 +14,17 @@ Excel dashboards include various elements such as charts, tables, figures, and g
 
 The Excel Dashboard provides an overview of metrics and other data points in one place. In simple terms, dashboards are visual representations of data. They mostly consist of charts and graphs, thereby grabbing the user's attention.
 
+****Excellent collection of Microsoft excel interview questions****
+
+1. [https://www.guru99.com/microsoft-excel-interview-questions-answers.html](https://www.guru99.com/microsoft-excel-interview-questions-answers.html)
+2. [https://www.javatpoint.com/excel-interview-questions](https://www.javatpoint.com/excel-interview-questions)
+3. [https://trumpexcel.com/excel-interview-questions/](https://trumpexcel.com/excel-interview-questions/)
+4. [https://www.deskbright.com/excel/excel-interview-questions/](https://www.deskbright.com/excel/excel-interview-questions/)
+5. [https://www.monsterindia.com/career-advice/10-frequently-asked-excel-interview-questions-7836.html](https://www.monsterindia.com/career-advice/10-frequently-asked-excel-interview-questions-7836.html)
+6. [https://www.wisdomjobs.com/e-university/microsoft-excel-interview-questions-answers.html](https://www.wisdomjobs.com/e-university/microsoft-excel-interview-questions-answers.html)
+7. [https://www.gangboard.com/blog/excel-interview-questions-and-answers/](https://www.gangboard.com/blog/excel-interview-questions-and-answers/)
+
+
 I prepared some basic Excel Templates for Practising MS Excel.
 
 1	[12-month calendar.xlsx](https://github.com/thabaresh-s/Microsoft-Excel/blob/main/12-month%20calendar.xlsx)
