@@ -1,5 +1,4 @@
-### Excel Templates
-
+<h1 align="center"> Excel Templates </h1>
 <p align="center">
   <img src="https://user-images.githubusercontent.com/31488753/203472588-6371f3d9-a6c3-4397-ba7b-cb044c44b267.png" width="350" title="hover text">
   <img src="https://user-images.githubusercontent.com/31488753/203472588-6371f3d9-a6c3-4397-ba7b-cb044c44b267.png" width="350" alt="accessibility text">
