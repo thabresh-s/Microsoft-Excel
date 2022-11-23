@@ -14,6 +14,8 @@ Excel dashboards include various elements such as charts, tables, figures, and g
 
 The Excel Dashboard provides an overview of metrics and other data points in one place. In simple terms, dashboards are visual representations of data. They mostly consist of charts and graphs, thereby grabbing the user's attention.
 
+Getting started - https://edu.gcfglobal.org/en/excel/
+
 ****Excellent collection of Microsoft excel interview questions****
 
 1. [https://www.guru99.com/microsoft-excel-interview-questions-answers.html](https://www.guru99.com/microsoft-excel-interview-questions-answers.html)
