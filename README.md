@@ -1,5 +1,5 @@
 <h1 align= "center" style="font-family:verdana;"> 📚 MS - Excel 📚 </h1>
-<p><center style="color:#159364; font-family:cursive;"> Dashboards & Templates </center></p>
+<p align="center" ><center style="color:#159364; font-family:cursive;"> Dashboards & Templates </center></p>
 <p align="center">
   <img src="https://user-images.githubusercontent.com/31488753/203472588-6371f3d9-a6c3-4397-ba7b-cb044c44b267.png" width="350" title="hover text">
   <img src="https://user-images.githubusercontent.com/31488753/203472588-6371f3d9-a6c3-4397-ba7b-cb044c44b267.png" width="350" alt="accessibility text">
