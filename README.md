@@ -1,6 +1,10 @@
 ### Excel Templates
 
-![image](https://user-images.githubusercontent.com/31488753/203472588-6371f3d9-a6c3-4397-ba7b-cb044c44b267.png)
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/31488753/203472588-6371f3d9-a6c3-4397-ba7b-cb044c44b267.png" width="350" title="hover text">
+  <img src="https://user-images.githubusercontent.com/31488753/203472588-6371f3d9-a6c3-4397-ba7b-cb044c44b267.png" width="350" alt="accessibility text">
+</p>
+
 
 Excel dashboards make it easy to perform quick overviews of data reports rather than going through large volumes of data. Overviews help in making quick and urgent decisions since one can skim through a lot of information at once and within a short time.
 
