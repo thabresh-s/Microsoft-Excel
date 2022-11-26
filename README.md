@@ -1,4 +1,10 @@
-## Excel Templates
+<h1 align= "center" style="font-family:verdana;"> 📚 MS - Excel 📚 </h1>
+<p align="center" style="color:#159364; font-family:cursive;"> Dashboards & Templates </p>
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/31488753/203472588-6371f3d9-a6c3-4397-ba7b-cb044c44b267.png" width="350" title="hover text">
+  <img src="https://user-images.githubusercontent.com/31488753/203472588-6371f3d9-a6c3-4397-ba7b-cb044c44b267.png" width="350" alt="accessibility text">
+</p>
+
 
 Excel dashboards make it easy to perform quick overviews of data reports rather than going through large volumes of data. Overviews help in making quick and urgent decisions since one can skim through a lot of information at once and within a short time.
 
@@ -7,6 +13,19 @@ The dashboards help in tracking Key Performance Indicators (KPIs) with ease, whi
 Excel dashboards include various elements such as charts, tables, figures, and gauges that help in presenting the data. They can handle any type of data from different market and purposes, and the information can be used for marketing, financial, or other business projects.
 
 The Excel Dashboard provides an overview of metrics and other data points in one place. In simple terms, dashboards are visual representations of data. They mostly consist of charts and graphs, thereby grabbing the user's attention.
+
+Getting started - https://edu.gcfglobal.org/en/excel/
+
+****Excellent collection of Microsoft excel interview questions****
+
+1. [https://www.guru99.com/microsoft-excel-interview-questions-answers.html](https://www.guru99.com/microsoft-excel-interview-questions-answers.html)
+2. [https://www.javatpoint.com/excel-interview-questions](https://www.javatpoint.com/excel-interview-questions)
+3. [https://trumpexcel.com/excel-interview-questions/](https://trumpexcel.com/excel-interview-questions/)
+4. [https://www.deskbright.com/excel/excel-interview-questions/](https://www.deskbright.com/excel/excel-interview-questions/)
+5. [https://www.monsterindia.com/career-advice/10-frequently-asked-excel-interview-questions-7836.html](https://www.monsterindia.com/career-advice/10-frequently-asked-excel-interview-questions-7836.html)
+6. [https://www.wisdomjobs.com/e-university/microsoft-excel-interview-questions-answers.html](https://www.wisdomjobs.com/e-university/microsoft-excel-interview-questions-answers.html)
+7. [https://www.gangboard.com/blog/excel-interview-questions-and-answers/](https://www.gangboard.com/blog/excel-interview-questions-and-answers/)
+
 
 I prepared some basic Excel Templates for Practising MS Excel.
 
